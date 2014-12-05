@@ -6,6 +6,8 @@ Never finished 4KB intro, coded in i386 assembler, with GF1 synthetized score. G
 
 I created sample generators and quasi-builtin-tracker for the tune. You can see everything in the sources. The intro ([executable](33doi.exe) attached) works (!) in the [dosbox](http://www.dosbox.com/). Try it yourself.
 
+![screenshot 1](https://github.com/marcin-gryszkalis/33-days-of-insomnia/raw/master/33doi_001.png "Screenshot 1")
+![screenshot 2](https://github.com/marcin-gryszkalis/33-days-of-insomnia/raw/master/33doi_002.png "Screenshot 2")
 
 ```
 
