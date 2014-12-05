@@ -1,6 +1,6 @@
 33 days of insomnia
 ===================
-4KB intro with music (legacy)
+4KB intro with music (legacy, 2006)
 
 Never finished 4KB intro, coded in i386 assembler, with GF1 synthetized score. GF1 is heart of classic Gravis Ultrasound sound cards. Gravis was great.
 
